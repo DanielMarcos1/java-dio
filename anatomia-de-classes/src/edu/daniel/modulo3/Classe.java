@@ -1,3 +1,4 @@
+package edu.daniel.modulo3;
 public class Classe {
 // Classes são nomeadas com letra maiúscula ex: MinhaClasse
 // Variáveis com camelCase ex: minhaVariavel
